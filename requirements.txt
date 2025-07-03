@@ -1,0 +1,6 @@
+gradio
+tensorflow
+librosa
+scikit-learn
+numpy
+resampy
